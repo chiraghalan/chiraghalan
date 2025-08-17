@@ -55,8 +55,8 @@
 ## 🎓 Certifications  
 
 - 🏅 **Machine Learning with Python** – Coursera  
-- 📊 **Data Science & Visualization** – Kaggle  
-- 🗃️ **SQL for Data Analysis** – HackerRank  
+- 📊 **Data Science & Visualization** – SLog Solutions 
+- 🗃️ **SQL for Data Analysis** – DataCamp
 
 ---
 
